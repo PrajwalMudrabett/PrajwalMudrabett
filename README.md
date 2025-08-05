@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi there,I am Prajwal👋 
+Engineering Student|Aspiring Software Dev </>|
+Exploring into the world of AI 👾| 
 
-- 🔭 I’m currently working on a Java Project
-- 🌱 I’m currently learning Python and Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:  
-            email:prajwalmudrabett@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a CS Engineering Student
-
+## 🤖 About Me
+- 🔭 Currently pursuing my 🎓 B.E. in Computer Science @ Jyothy Institute of Technology
+- 🌱 Passionate about Artificial Intelligence and the likes of Machine Learning
+- 📝 Gaining hands on experience in Java and Python
+- 📹 A part time video editor as well
